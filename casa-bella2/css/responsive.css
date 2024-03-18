@@ -1,0 +1,521 @@
+@media only screen and (max-width: 1300px) {
+    .pergunta p{
+        padding-left: 4%;
+        
+        
+     }
+     .pergunta {
+        text-indent:4%;
+        font-size: 18px;
+       
+        margin-inline: 22%;
+     }
+  
+}
+@media only screen and (max-width: 1250px) {
+    .pergunta p{
+        padding-left: 5%;
+        
+        
+     }
+     .pergunta {
+        text-indent:3%;
+        font-size: 18px;
+       
+        margin-inline: 20%;
+     }
+  
+}
+@media only screen and (max-width: 1210px) {
+    .pergunta p{
+        padding-left: 5%;
+        
+        
+     }
+     .pergunta {
+        text-indent:3%;
+        font-size: 18px;
+       
+        margin-inline: 19%;
+     }
+  
+}
+@media only screen and (max-width: 1100px) {
+    .pergunta p{
+        padding-left: 5%;
+        
+        
+     }
+     .pergunta {
+        text-indent:5%;
+        font-size: 18px;
+       
+        margin-inline: 16%;
+     }
+  
+}
+@media only screen and (max-width: 1050px) {
+    main{
+        height: calc(100vh - 330px);
+    }
+    aside{
+        flex: 1 1 100vw;
+        height: 100px;
+    }
+    .pergunta p{
+        padding-left: 5%;
+        
+        
+     }
+     .pergunta {
+        text-indent:3%;
+        font-size: 18px;
+       
+        margin-inline: 15%;
+     }
+  
+}
+#openMenu, #closeMenu{
+    display: none;
+}
+@media only screen and (max-width: 980px) {
+
+    .pergunta p{
+        padding-left: 5%;
+       
+        
+        
+     }
+     .pergunta {
+        text-indent:3%;
+        font-size: 18px;
+       
+        
+       
+        margin-inline: 14%;
+     }
+     #h1{
+        font-size: 30px;
+        margin-top: -400px;
+        margin-left: 20px;
+    }
+    #h2{
+        font-size:25px;
+        margin-top: 30px;
+        margin-left:20px ;
+    }
+    #p{
+        font-size: 20px;
+        margin-top: 58px;
+    }
+}
+@media only screen and (max-width: 950px) {
+
+    .pergunta p{
+        padding-left: 5%;
+       
+        
+        
+     }
+     .pergunta {
+        text-indent:3%;
+        font-size: 18px;
+        margin-top: 20px;
+       
+        margin-inline: 1%;
+     }
+}
+@media only screen and (max-width: 800px) {
+    .pergunta{
+        margin-top: 60px;
+        
+      
+    }
+
+}
+
+
+
+@media only screen and (max-width: 730px) {
+    header{
+        max-width: 98%;
+        max-height: 15%;
+        margin-top: 10px;
+    }
+    .logo-img{
+        max-width:95% ;
+        margin-left:10% ;
+        position: fixed;
+      
+    }
+    #text-logo{
+        margin-left: 14%;
+        font-size: 28px;
+        position: fixed;
+    }
+    #slogan{
+        margin-left:14% ;
+        position: fixed;
+    }
+    #menu{
+        margin-top:-17px ;
+        max-height: 1000%
+    
+    }
+    #openMenu, #closeMenu{
+        display: block;
+    }
+    #openMenu{
+        margin-left: 80%;
+        
+    }
+    #closeMenu{
+        position: fixed;
+        right: 60px;
+        top: 35px;
+        
+    }
+    #icon{
+       margin-inline:3%;
+       margin-top: 7px;
+       
+    }
+    nav{
+        position: fixed;
+        flex-direction: column;
+        width:100vw;
+        height: 100vh;
+        background: rgba(187, 47, 164, 0.8) ;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        display: none;
+        opacity: 0;
+        transition: 0.3s ;
+        margin: 0;
+        font-size: 20px;
+        margin-top: 0;
+       
+    }
+    nav a,nav button{
+        margin-bottom: 50px;
+    }
+    #h1{
+        font-size: 30px;
+        margin-top: -465px;
+        margin-left: 20px;
+    }
+    #h2{
+        font-size:25px;
+        margin-top: 20px;
+        margin-left:20px ;
+    }
+    #p{
+        font-size: 20px;
+        margin-top: 58px;
+    }
+
+    .video-loop{
+        max-height: 1000px;
+       
+       
+    }
+    video{
+       
+        max-width:93%;
+        max-height: 478px;
+       
+       
+        margin-left: -10px;
+        margin-top: 2px;
+    }
+    .main{
+        max-width: 98%;
+        
+        max-height: 910px;
+    }
+     .pergunta p{
+        padding-left:2%;
+        
+        
+     }
+     .pergunta {
+        text-indent:3%;
+        font-size: 15px;
+        margin-top: 110px;
+       
+        margin-inline: 1%;
+     }
+     
+
+     .seta{
+        margin-top: 950px;
+        margin-left: 48%;
+     }
+     .services{
+        margin-top: 300px;
+     }
+    
+    }
+    @media only screen and (max-width:650px){
+        .pergunta p{
+            padding-left: 5%;
+            
+            
+            
+         }
+         .pergunta {
+            text-indent: 3%;
+            font-size: 13px;
+           
+            margin-inline: -2%;
+           
+           
+         }
+         
+
+    }
+  
+    @media only screen and (max-width:580px){
+        .pergunta p{
+            padding-left: -11%;
+            
+            
+         }
+         .pergunta {
+            text-indent:-4%;
+            font-size: 13px;
+           
+           
+            margin-inline:2%;
+            margin-top: 90px;
+         }
+          .seta{
+            margin-left: 46%;
+          }
+         
+
+    }
+    @media only screen and (max-width:550px){
+        video{
+       
+        max-width:91%;
+        max-height: 478px;
+       
+       
+        margin-left: -8px;
+        margin-top: 2px;
+    }
+    .main{
+        max-width: 98%;
+        
+        max-height: 910px;
+    }
+        
+         .pergunta {
+            
+           
+            text-indent:25%;
+            font-size: 11px;
+            margin-inline: -50%;
+           
+            margin-top: 70px;
+         }
+          .seta{
+            margin-left: 46%;
+          }
+         
+
+    }
+   
+   
+
+  
+   
+
+@media only screen and (max-width:360px){
+   
+        header{
+            max-width: 96%;
+            max-height: 14%;
+        
+        }
+        .logo-img{
+            max-width: 95%;
+            margin-left: 18%;
+            margin-top: -8px;
+        
+        }
+        #text-logo{
+            margin-left: 26%;
+            font-size: 28px;
+        }
+        #slogan{
+            margin-left: 23%;
+        }
+        #menu{
+            margin-top: -100px;
+            
+        }
+        #openMenu, #closeMenu{
+            display: block;
+        }
+        #openMenu{
+            margin-right: 7%;
+            
+        }
+        #closeMenu{
+            position: fixed;
+            right: 20px;
+            top: 35px;
+        }
+        #icon{
+            margin-left: 7%;
+            position: absolute;
+            margin-top: 35px;
+
+        }
+        .video-loop{
+            max-height:720px;
+
+        }
+        video{
+            max-height: 99%;
+            max-width: 69%;
+        }
+        .main{
+            max-height: 720px;
+        }
+
+        #h1{
+            font-size: 27px;
+            margin-top: -465px;
+            margin-left: 20px;
+            
+        }
+        #h2{
+            font-size:19px;
+            margin-top: 19px;
+            margin-left:20px ;
+        }
+        #p{
+            font-size: 20px;
+            margin-top: 19px;
+        }
+        #contact-main{
+            margin-left: 35%;
+            margin-top: 20px;
+            width: 20%px;
+            height: 30px;
+            position: absolute;
+            text-align: center;
+            padding-inline: 1%;
+            padding-top: 1%;
+
+        }
+        .pergunta{
+            font-size: 13px;
+            text-indent:18%;
+            margin-inline: 1%;
+        }
+        .seta{
+          margin-inline: 45%;
+          margin-top: 20px;
+        }
+         .section1{
+            max-width: 91%;
+            margin-top: -80px;
+            position: absolute;
+        }
+
+        .resposta{
+            font-size: 16px;
+            margin-left: 7%; 
+            margin-top:  15px;
+              
+
+
+        }
+        .espaçamento{
+            margin-left: -1%;
+            font-size: 16px;
+            margin-top: 3%;
+            
+        }
+        .box1{
+            max-width: 96%;
+            height:18% ;
+           
+        }
+        #services{
+            position:absolute;
+            margin-top: 65%;
+            margin-left:-70%;
+            z-index: 56;
+        }
+        
+        .slider{
+            position: absolute;
+            margin-top: 250px;
+            height: 215px;
+            width: 98%;
+            margin-inline: 1%;
+        }
+        .slide img{
+            height: 215px;
+        }
+        
+
+
+
+    
+    }
+    @media only screen and (max-width:650){
+        .resposta{
+            margin-top: px;
+        }
+    }
+
+
+
+@media only screen and (max-width: 1200px) {
+
+
+
+ #menu{
+    font-size: 15px;
+    margin-right: 50px;
+    gap: 2%;
+
+ }
+ #contact{
+    width: 25%;
+ }
+ 
+ main{
+    height:800px;
+    
+   
+        
+    }
+ .video{
+    height: 800px;
+   
+   
+ }
+ .seta{
+    margin-top: 564px;
+ }
+ .services{
+    max-height: 20%;
+ }
+ .pergunta{
+    margin-left: %;
+    margin-top: px;
+   
+ }
+}
+
+
+
+
